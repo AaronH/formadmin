@@ -86,9 +86,12 @@ $text-color:       $gray !default;
 $highlight-background: rgba($primary-color, 0.5) !default;
 $highlight-color:      $white !default;
 
+$yes-color: $info-color !default;
+$no-color: $gray !default;
 
 //-------------//
 //   Borders   //
 //-------------//
 $radius:          4px !default;
 $circular-radius: 500rem !default;
+

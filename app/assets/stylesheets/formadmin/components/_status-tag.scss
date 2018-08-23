@@ -29,10 +29,10 @@
   }
 
   &.yes {
-    background-color: $info-color;
+    background-color: $yes-color;
   }
 
   &.no {
-    background-color: $gray;
+    background-color: $no-color;
   }
 }
